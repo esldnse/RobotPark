@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+RobotParkBackend/robot_park.db
+RobotParkBackend/instance/
+
+# C#
+RobotParkClient/**/bin/
+RobotParkClient/**/obj/
+*.user
+*.suo
+
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
